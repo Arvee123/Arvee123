@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Arvee123
-- 👀 I’m interested in Python programming, cloud engineering, machine learning and AI.
+- 👀 I’m interested in python programming, cloud engineering, machine learning and AI.
 - 🌱 I’m currently learning python programming
